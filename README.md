@@ -70,3 +70,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthick-pranesh-gsd-762448348/)
 [![Email](https://img.shields.io/badge/Email-Here-red?style=flat&logo=gmail&logoColor=white)](mailto:karthikpraneshdhanasekeran@gmail.com)
 
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=KarthickPraneshGSD&label=Profile%20Views&color=blue&style=flat)
+
