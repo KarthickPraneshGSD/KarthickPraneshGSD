@@ -7,6 +7,7 @@
 ### 🔗 LinkedIn Profile [Karthick's LinkedIn](https://www.linkedin.com/in/karthick-pranesh-gsd-762448348/)
 
 ### 🐱 Leetcode  [Karthick's Leetcode](https://leetcode.com/u/KarthickPraneshGSD/)
+📝 [Resume](file:///C:/Users/Karthick%20Pranesh%20GSD/Downloads/Karthick%20Pranesh_GSD_AI&DS.pdf)
 
 ---
 
